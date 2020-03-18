@@ -26,7 +26,6 @@ public class MainActivity extends AppCompatActivity {
                     startActivityForResult(intent, 1000);
                 }
             });
-//        2. 프로필 수정화면에서 이름 입력 => 확인 => 종료 / 메인으로 복귀
-//        3. 돌아온 메인화면에서 2에서 입력한 이름을 텍스트뷰에 반영
+
     }
 }
